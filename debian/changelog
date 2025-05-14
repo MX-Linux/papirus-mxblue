@@ -1,3 +1,9 @@
+papirus-mxblue (25.05.01mx25) mx; urgency=medium
+
+  * adapt to ePapirus deprecation
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 14 May 2025 18:25:09 -0400
+
 papirus-mxblue (24.01.01) mx; urgency=medium
 
   * revised "logout" and "switchuser" icons

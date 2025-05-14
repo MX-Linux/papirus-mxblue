@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Papirus-mxbluedarkpanes
 Comment=adjusted folder icons for papirus
-Inherits=ePapirus,breeze,gnome,hicolor
+Inherits=Papirus,breeze,gnome,hicolor
 Example=folder
 
 
