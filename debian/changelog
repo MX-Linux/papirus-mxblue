@@ -1,3 +1,10 @@
+papirus-mxblue (25.05.02mx25) mx; urgency=medium
+
+  * add "follow color scheme" to icon themes"
+  * keep some themes for backward compatibility
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 18 May 2025 17:32:03 -0400
+
 papirus-mxblue (25.05.01mx25) mx; urgency=medium
 
   * adapt to ePapirus deprecation

@@ -5,6 +5,8 @@ Inherits=Papirus-Dark,breeze,gnome,hicolor
 Example=folder
 
 
+FollowsColorScheme=true
+
 ##########################
 #   Plasma settings      #
 ##########################
