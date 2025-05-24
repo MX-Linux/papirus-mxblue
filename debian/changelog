@@ -1,3 +1,9 @@
+papirus-mxblue (25.05.03mx25) mx; urgency=medium
+
+  * keep folders and computer, get rid of everything else
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 24 May 2025 11:40:03 -0400
+
 papirus-mxblue (25.05.02mx25) mx; urgency=medium
 
   * add "follow color scheme" to icon themes"
