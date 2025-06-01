@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Papirus-mxbluedark3
+Name=Papirus-mxbluedark
 Comment=adjusted folder icons for papirus
 Inherits=Papirus-Dark,breeze,gnome,hicolor
 Example=folder
@@ -41,7 +41,7 @@ MaxSize=512
 
 [scalable/devices]
 Context=Devices
-Size=16
-MinSize=8
+Size=48
+MinSize=16
 MaxSize=512
 Type=Scalable
